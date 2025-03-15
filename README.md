@@ -20,6 +20,9 @@ I developed a comprehensive project in excel, creating multiple dashboards and t
 - create pivot table according to the question asked.
 - merge all pivot tables into one dashboard and apply silcer to make dynamic.
 
-#dashboard 
+# dashboard 
 
 ![Screenshot 2025-03-15 082106](https://github.com/user-attachments/assets/798777b7-602b-4d3f-abc2-c6c7f458261b)
+
+# final conclusion:
+The analysis of call center data provides valuable insights into operational efficiency.key trends indicate the total call for customers,rating from customer,amount in 2023 and happy customers rating . optimizing call data based on call volume trends and to track improvement and identify new trends
